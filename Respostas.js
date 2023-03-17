@@ -1,5 +1,6 @@
 
 // 2)Sequência de Fibonacci
+
 function fibonnaci(numero){
     let n1= 0
     let n2= 1
@@ -23,7 +24,7 @@ function fibonnaci(numero){
 fibonnaci(4) //Saída: o numero não esta presente na sequência
 fibonnaci(21) //Saída:O número está presente na sequência 
 
-//3)Vetor
+//3) Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa...
 
 const dados =[
     '{"dia": 1, "valor": 22174.1664}',
